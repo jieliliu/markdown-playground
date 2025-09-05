@@ -46,6 +46,9 @@ In this lab, we'll be going through some basic tasks you'll need to do as you ma
 **What are the three possible symbols for indicating an unordered list?**
 
 **Format the following text into a footnote:**
-Main text: Alex Wingate went to William and Mary.(place footnote here)  
-Footnote text: William and Mary is a university in Williamsburg, VA founded in 1693.  
-Bonus: make "William and Mary" a hyperlink to W&M's website. 
+Main text: 
+
+Alex Wingate went to William and Mary.[^1]
+
+[^1]: [William and Mary](https://www.wm.edu/) a university in Williamsburg, VA founded in 1693.
+
