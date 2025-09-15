@@ -53,18 +53,18 @@ This paragraph introduces a quotation:
 
 This paragraph introduces the first few lines of Swinburne’s “Anactoria” (1865) a dramatic monologue. The speaker is the Greek poet Sappho, addressing her lover Anactoria:
 
-My life is bitter with thy love; thine eyes
-Blind me, thy tresses burn me, thy sharp sighs
-Divide my flesh and spirit with soft sound,
-And my blood strengthens, and my veins abound.
-I pray thee sigh not, speak not, draw not breath;
+My life is bitter with thy love; thine eyes  
+Blind me, thy tresses burn me, thy sharp sighs  
+Divide my flesh and spirit with soft sound,  
+And my blood strengthens, and my veins abound.  
+I pray thee sigh not, speak not, draw not breath;  
 Let life burn down, and dream it is not death.
 
 #### Computer code
 
 The paragraphs below include computer code, both “inline” code, in which the code appears “inline” with surrounding regular text, and “block” code, in which a larger block of code is set off from the surrounding text.
 
-The following sentence include some inline code. Use git status to list all new or modified files that haven't yet been committed. Here again is the same sentence, but the code is also bolded. Use git status to list all new or modified files that haven't yet been committed.
+The following sentence include some inline code. Use `git status` to list all new or modified files that haven't yet been committed. Here again is the same sentence, but the code is also bolded. Use **`git status`** to list all new or modified files that haven't yet been committed.
 
 Here is a block of some Python code:
 
