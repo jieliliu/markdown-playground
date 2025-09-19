@@ -53,11 +53,11 @@ This paragraph introduces a quotation:
 
 This paragraph introduces the first few lines of Swinburne’s “Anactoria” (1865) a dramatic monologue. The speaker is the Greek poet Sappho, addressing her lover Anactoria:
 
-My life is bitter with thy love; thine eyes  
-Blind me, thy tresses burn me, thy sharp sighs  
-Divide my flesh and spirit with soft sound,  
-And my blood strengthens, and my veins abound.  
-I pray thee sigh not, speak not, draw not breath;  
+My life is bitter with thy love; thine eyes  \
+Blind me, thy tresses burn me, thy sharp sighs  \
+Divide my flesh and spirit with soft sound,  \
+And my blood strengthens, and my veins abound.  \
+I pray thee sigh not, speak not, draw not breath;  \
 Let life burn down, and dream it is not death.
 
 #### Computer code
