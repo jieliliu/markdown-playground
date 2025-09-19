@@ -76,11 +76,11 @@ def times_table(n):
     print('')
 ```
 
-The code was borrowed from https://www.pythonfromtheverybeginning.com/_files/ugd/c52a80_c91162eff1034675a30a9e2b61770df5.pdf.
+The code was borrowed from <https://www.pythonfromtheverybeginning.com/_files/ugd/c52a80_c91162eff1034675a30a9e2b61770df5.pdf.>
 
 #### Links
 
-Here is the URL to the Rock Show CollectionBuilder demonstration site: https://jawalsh.github.io/rock-show/.
+Here is the URL to the [Rock Show](https://jawalsh.github.io/rock-show/) CollectionBuilder demonstration site: https://jawalsh.github.io/rock-show/.
 
 #### Images
 
